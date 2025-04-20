@@ -1,0 +1,2 @@
+# IndCalc
+Inductor Calculator
