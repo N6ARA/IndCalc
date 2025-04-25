@@ -23,3 +23,5 @@ pip install -r requirements.txt
 * numpy
 * scipy
 * osqp
+
+## Resources
